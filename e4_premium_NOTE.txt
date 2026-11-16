@@ -1,0 +1,2 @@
+Columns are annualised vols (%). premium_x = q_x - p_x in vol points.
+premium_diff + premium_jump != premium_total: variances add, vols do not.

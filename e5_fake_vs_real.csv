@@ -1,0 +1,9 @@
+measure,change_+10,change_+60,per_1pct_rally,persistence,event
+atm,-6.64,-2.4,-2.33,0.36,fake
+put95,-6.62,-2.23,-2.32,0.34,fake
+skew,0.02,0.17,,,fake
+bates_vol,-18.71,-8.12,-6.56,0.43,fake
+atm,-10.0,-10.91,-2.13,1.09,real
+put95,-9.29,-10.34,-1.98,1.11,real
+skew,0.71,0.57,,,real
+bates_vol,-9.98,-19.36,-2.13,1.94,real

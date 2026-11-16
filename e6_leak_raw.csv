@@ -1,0 +1,7 @@
+event,measure,pre_move,rank,n_quiet,quiet_p95
+fake,futures %,3.647,1.0,120,1.245
+fake,ATM vol,-2.544,0.858,120,3.719
+fake,5% put vol,-2.453,0.858,120,3.758
+real,futures %,-0.195,0.208,120,1.245
+real,ATM vol,-1.539,0.725,120,3.719
+real,5% put vol,-1.68,0.708,120,3.758
