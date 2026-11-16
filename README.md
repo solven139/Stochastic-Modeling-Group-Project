@@ -55,8 +55,8 @@ ETH file for the night of 9 April is empty; expiry switches from 16 April to 15 
 
 | Part | Owner |
 |---|---|
-| A: Events and timing | |
-| B: Implied volatility and volatility index | |
-| C: Risk-neutral distribution | |
-| D: Realized volatility | |
-| E: Models, fear premium, report |  |
+| A: Events and timing | Ramsai Talluri |
+| B: Implied volatility and volatility index | Nguyen Minh Ha |
+| C: Risk-neutral distribution | Toh Han Wei |
+| D: Realized volatility | Tay Shi Hui |
+| E: Models, fear premium, report  | Chen Pei Hsin Scott |
